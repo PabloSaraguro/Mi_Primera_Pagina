@@ -7,3 +7,5 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: listado_materias
+- file: carreras
+- file: becas
